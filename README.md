@@ -1,11 +1,34 @@
 # FOOTWARE WEBSITES
 
-These are the examples of online shoping websites/E-commerce websites which are created using HTML, CSS, Javascript languages
+Welcome to the Footwear Website repository! This project is a sample e-commerce website for footwear built using HTML, CSS, and JavaScript.
 
-Here are the samples of these E-commerce websites 
+### Technologies Used
+HTML5
+CSS3
+JavaScript
 
-### Website 1 
+
+
+### Features
+Browse through a collection of footwear products.
+
+View detailed product information including images, description, and price.
+
+Add products to the shopping cart.
+
+Adjust the quantity of products in the cart.
+
+Remove products from the cart.
+
+Calculate the total price of items in the cart.
+
+Responsive design for all devices.
+
+
+
+### Screenshots
+**Website 1** 
 ![Untitled design](https://github.com/HitehPardeshi/Footware_websites/assets/119100439/8d8f7a23-9a3a-4d9c-89df-d3fec9c7c96c)
 
-### Website 2 
+**Website 2**
 ![Untitled design 2](https://github.com/HitehPardeshi/Footware_websites/assets/119100439/6fa07cab-dfb6-4576-8c90-95a5a19b2290)
